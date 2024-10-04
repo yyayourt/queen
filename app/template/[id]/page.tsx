@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState } from "react"
-import { RestaurantHomepage } from "@/components/restaurant-homepage"
+import { RestaurantHomepage } from "./restaurant-homepage"
 import { BonbonShopHomepage } from "./bonbon-shop-homepage"
 
 // Simulons une fonction pour obtenir les détails du template
